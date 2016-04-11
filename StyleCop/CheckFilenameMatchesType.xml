@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SourceAnalyzer Name="Check Filename Matches Type">
+  <Description> CheckFilenameMatchesType. </Description>
+  <Rules>
+    <RuleGroup Name="Implementation">
+      <Rule Name="CheckFilenameMatchesType" CheckId="AE2222">
+        <Context>CheckFilenameMatchesType</Context>
+        <Description>CheckFilenameMatchesType.</Description>
+      </Rule>
+    </RuleGroup>
+  </Rules>
+</SourceAnalyzer>
